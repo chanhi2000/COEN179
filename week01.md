@@ -52,7 +52,7 @@ $$
 
 
 #### LOG OF n
-- u = logbn;  bu =n
+- $$u=\log_{b}{n};  bu =n$$
 - u ln(b)=ln(bu)=ln(n)
 - n=\frac{ln(n)}{ln(b)}=\frac{\log_{10}{\left(n\right)}}{\log_{10}{\left(b\right)}}=\frac{\log_{2}{\left(n\right)}}{\log_{2}{\left(b\right)}}
 * O(1) is better than O(log n)
