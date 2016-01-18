@@ -28,11 +28,11 @@
     - there exist constant $$C$$ and $$N$$ such that,
 $$
     \begin{align*}
-    f(n)\geq{C}*g(n),&&\forall{n}\geq{N}.
+    f(n)\geq{C}\cdot{g(n)},&&\forall{n}\geq{N}.
     \end{align*}
 $$
-    - "$$f(n)\geq{C}*g(n)$$": *essentially*
-    - "$$\forall{n}\geq{N}$$": *eventually.*
+        - "$$f(n)\geq{C}*g(n)$$": *essentially*
+        - "$$\forall{n}\geq{N}$$": *eventually.*
     - we need to make a tradeoff for the worst case, but it still does NOT matter.
 
 
@@ -42,14 +42,17 @@ $$
 - **define**:
     - there exist constant $$C$$ and $$N$$ such that
 $$
-f(n) ≤ C for all n ≥ N 
+    \begin{align*}
+    f(n)\geq{C}\cdot{1},&&\forall{n}\geq{N}. 
+    \end{align*}
 $$
-    * BOUNDED
-* fastest algorithm
+- **characteristics**:
+    - BOUNDED
+    - fastest algorithm
 
 
-LOGB n
-* u = logbn;  bu =n
-* u ln(b)=ln(bu)=ln(n)
-* n=\frac{ln(n)}{ln(b)}=\frac{\log_{10}{\left(n\right)}}{\log_{10}{\left(b\right)}}=\frac{\log_{2}{\left(n\right)}}{\log_{2}{\left(b\right)}}
+#### LOG OF n
+- u = logbn;  bu =n
+- u ln(b)=ln(bu)=ln(n)
+- n=\frac{ln(n)}{ln(b)}=\frac{\log_{10}{\left(n\right)}}{\log_{10}{\left(b\right)}}=\frac{\log_{2}{\left(n\right)}}{\log_{2}{\left(b\right)}}
 * O(1) is better than O(log n)
