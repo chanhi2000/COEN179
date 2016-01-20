@@ -87,7 +87,7 @@ use the master theorem to solve the following recur:
     2. $$T(n)=8T(\frac{n}{2})+5n^3$$
     3. $$T(n)=8T(\frac{n}{2})+5n^4$$
 
-**ex1.1**
+**ex1.1** case#1
 $$
     \log_{b}{a}=\log_{(2)}{(8)}=3;\\
     f(n)=O(n^{3-\epsilon})\\
@@ -126,3 +126,15 @@ $$
 
 - **LET'S GET LUCKY** and hope that one we pick randomly will be our middle.
 
+> **Q3**: can we do the sorting while comparing with our "arbitrary middle value"?
+* Yes. we might as well.
+
+- worst-case: $$O(n^2)$$
+- best-case: $$O(n\log{n})$$
+- average-case: ??
+- ##### EXAMPLE.
+$$
+    \sqrt{1}+\sqrt{2}+\cdots+\sqrt{n}\leq\underset{\text{wostcaser}}}{\sqrt{n}+\sqrt{n}+\cdots+\sqrt{n}=n\sqrt{n}}\\
+    \geq\sqrt{\frac{n}{2}}+\sqrt{\frac{n}{2}}+\cdots+\sqrt{\frac{n}{2}}=\frac{n}{2}\sqrt{\frac{n}{2}}
+    
+$$
