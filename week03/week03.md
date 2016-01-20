@@ -124,5 +124,5 @@ $$
 > **Q2**: if $$n\gg{c}$$
 - smaller ones are okay, but the number of targest become bigger, it's impossible to do it any quicker way.
 
-- LET'S GET LUCKY
+- **LET'S GET LUCKY** and hope that one we pick randomly will be our middle.
 
