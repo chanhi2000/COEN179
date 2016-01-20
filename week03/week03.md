@@ -110,3 +110,19 @@ $$
     f(n)=5\cdot{n^4};
     \therefore{T}(n^4)=\Omega{(n^3)}
 $$
+
+## QUICK SORT
+- let's figure out what goes in the middle.
+- then put smallest and biggest on the both side.
+- then sort the smallest group and biggest group.
+- **backward "merge sort"**
+
+> **Q1**: what goes in the middle?
+- go through everything
+- order $$n$$ comparison
+
+> **Q2**: if $$n\gg{c}$$
+- smaller ones are okay, but the number of targest become bigger, it's impossible to do it any quicker way.
+
+- LET'S GET LUCKY
+
