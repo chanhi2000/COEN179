@@ -8,5 +8,5 @@
 - quicksort to the left
 - and 
 - quick sort to the right
-[see here]() to see the process
+[see here](http://math.scu.edu/~bwalden/alg/quick.html) to see the process
 [see here](http://math.scu.edu/~bwalden/alg/quick.cc) to see the algorithm implementation
