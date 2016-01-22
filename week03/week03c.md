@@ -1,22 +1,21 @@
 # **week03c**
 
 ## QUICKSORT
-- pick a pivot entry
-- place all smaller entries to the left
-- place all larger entries to the right
-- place the pivot
-- quicksort to the left
-- and 
-- quick sort to the right
-- [see here](http://math.scu.edu/~bwalden/alg/quick.html) to see the process
-
+1. pick a pivot entry
+2. place all smaller entries to the left
+3. place all larger entries to the right
+4. place the pivot
+5. quicksort to the left and 
+6. quick sort to the right
 
 ```c
 void quicksort(char a[], int left, int right)
 {
     int i,j;  char v;
     if (right > left) {
-	    v = a[right]; i = left-1; j = right;
+	    v = a[right]; 
+	    i = left-1; 
+	    j = right;
 	    for (;;) {
 	        while (a[++i] < v);
 	        while (a[--j] > v);
@@ -29,5 +28,6 @@ void quicksort(char a[], int left, int right)
     }
 }
 ```
+>[see here](http://math.scu.edu/~bwalden/alg/quick.html) to see the example process
 
 
