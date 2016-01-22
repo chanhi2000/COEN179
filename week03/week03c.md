@@ -28,6 +28,8 @@ void quicksort(char a[], int left, int right)
     }
 }
 ```
->[see here](http://math.scu.edu/~bwalden/alg/quick.html) to see the example process
+>[see here](http://math.scu.edu/~bwalden/alg/quick.html) to see the example process.
 
-
+- right: sentinel pivot
+- left: cursor
+- 
