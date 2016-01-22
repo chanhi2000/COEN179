@@ -102,7 +102,9 @@ in [Euler–Mascheroni constant](https://en.m.wikipedia.org/wiki/Euler%E2%80%93M
 $$
     \left\{
     \begin{align*}
-    1+\frac{1}{2}+\frac{1}{3}+\cdots+\frac{1}{n}=\ln{(n)}+\epsilon_{n}\\\text{where  }0<\epsilon_n<1\end{align*}
+    1+\frac{1}{2}+\frac{1}{3}+\cdots+\frac{1}{n}=\ln{(n)}+\epsilon_{n}\\\text{where  }0<\epsilon_n<1
+    
+    \end{align*}
     \right\}
 $$
 $$
