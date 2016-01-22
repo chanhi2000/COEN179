@@ -98,7 +98,7 @@ $$
     &\vdots\\
     \end{align*}
 $$
-Lieman
+in [Euler–Mascheroni constant](https://en.m.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant)
 $$
     \left\{
     \begin{align*}
