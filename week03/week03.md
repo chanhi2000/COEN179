@@ -5,8 +5,7 @@
 $$
     
     T(n)=aT\left(\frac{n}{b}\right)+f(n)\\
-    T(n)=\underset{\Theta(n^{\left(\log_{a}{b}\right)})}{\underline{\left[a^kT\left(\frac{n}{b^k}\right)\right]}}+\underset{?}{\underline{f(n)+af\left(\frac{n}{b}\right)+a^2f\left(\frac{n}{b^2}\right)+\cdots+a^{k-1}f\left(\frac{n}{b^{k-1}}\right)}}\\
-    \\
+    T(n)=\underset{\Theta(n^{\left(\log_{a}{b}\right)})}{\underline{\left[a^kT\left(\frac{n}{b^k}\right)\right]}}+\underset{?}{\underline{f(n)+af\left(\frac{n}{b}\right)+a^2f\left(\frac{n}{b^2}\right)+\cdots+a^{k-1}f\left(\frac{n}{b^{k-1}}\right)}}\\\\
 
     b^k\leq{n}<b^{k+1}\\
     k=\left\lfloor\log_{b}{n}\right\rfloor
@@ -33,11 +32,12 @@ $$
     S&=1+r+r^2+r^3+\cdots+r^{k-1}\\
     rS&=r+r^2+r^3+\cdots+r^{k}\\
     rS-S&=r^k-1;\\
-    S(r-1)=r^k-1\\
+    S(r-1)&=r^k-1\\
     S&=\frac{r^k-1}{r-1},&&\left<r=b^{\epsilon}\right>\\
     &=\frac{(b^\epsilon)^k-1}{(b^\epsilon)-1}=\Theta(n^\epsilon)
     \end{align*}
 $$
+
 - #### case#2
 if 
 $$
@@ -89,11 +89,12 @@ use the master theorem to solve the following recur:
 
 **ex1.1** case#1
 $$
+    \begin{align*}
     \log_{b}{a}=\log_{(2)}{(8)}=3;\\
     f(n)=O(n^{3-\epsilon})\\
     n^2\log{n}=O(n^{2.1})\:\:\:\epsilon=0.9;\\
     \therefore{T}(n)=\Theta{(n^3)}
-    
+    \end{align*}
 $$
 
 **ex1.2**
