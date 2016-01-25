@@ -2,7 +2,7 @@
 
 ## COUNTING COMPARISONS: QUICKSORT
 How to find the best case of quicksort?
-#### APPROACH (growing like a tree)
+#### APPROACH (growing like a binary tree)
 - 1st COMPARISON
  - IF LESS, do this
     -  2nd COMPARISON (1)
@@ -83,4 +83,10 @@ maintaining average of good strokes (68) and sometimes you get 120 strokes.
  - best-case: $$n\log_{2}(n)+O(n)$$
 
 
-## HEAPSORT
+## [HEAPSORT](https://www.cs.usfca.edu/~galles/visualization/HeapSort.html)
+ - heap is a **data structure** organized into a (partial) binary tree
+    1. all generations prior to the last have both children
+    2. a
+    3. if the node . if a left child.
+ - used for building a priority
+ - each node has a data element that can be compared with other nodes.
