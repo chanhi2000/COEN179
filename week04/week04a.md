@@ -1,11 +1,5 @@
 # week04a
 
-$$
-    \begin{align*}
-    a=sdfsf
-    \end{align*}
-$$
-
 ## COUNTING COMPARISONS: QUICKSORT
 How to find the best case of quicksort?
 #### APPROACH (growing like a tree)
