@@ -100,4 +100,4 @@ $$
 
 ## RANDOMLY GENERATED TREE
 - take the first array and use it for the first comparison
-- 
+- AVL tree (2-3 / 4-3 / red-black tree). 
