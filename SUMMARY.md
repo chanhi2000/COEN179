@@ -12,4 +12,5 @@
 * [hw02c](week05/hw02/hw02c.md)
 * [hw02d](week05/hw02/hw02d.md)
 * [hw02e](week05/hw02/hw02e.md)
+* week05
 
