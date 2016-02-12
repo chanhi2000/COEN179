@@ -16,4 +16,5 @@
 * [week05b](week05/week05b.md)
 * [week05c](week05/week05c.md)
 * [week06a](week06/week06a.md)
-
+* [week06b](week06/week06b.md)
+* [mt13](mt/mt13.md)

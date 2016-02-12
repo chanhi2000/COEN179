@@ -22,3 +22,12 @@ $$
 - black depth of the tree remains constant down any path from top to bottom.
 - any new node starts as a leaf of the tree, wherever it fits.
 
+The only possible prlbme is a violation of the red-red rule
+
+case#1: red uncle.
+
+
+case#2: black uncle.
+
+
+case#2: black uncle pt.2

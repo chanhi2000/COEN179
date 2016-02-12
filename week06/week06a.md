@@ -78,8 +78,10 @@ $$
 
 
 ## CARDINALITY
+
 - $$ |V| $$ = # of elements in $$V$$, cardinality of $$V$$.
-- # of bits is $$|V|^2$$ so, in general graph G has $$O{(|V|^2)}.
+
+- \# of bits is $$|V|^2$$ so, in general graph G has $$O{(|V|^2)}$$.
 
 when $$|E|$$ is a lot less than $$|V|^2$$. we call the graph, sparse.
 
@@ -97,8 +99,8 @@ y1->y2
 ```
 
 one(directed) or two (undirected) nodes for each edge.
-- # of nodes: $$\Theta{(|E|)}$$
-overall = # of nodes + # of edges
+- \# of nodes: $$\Theta{(|E|)}$$
+- overall = # of nodes + # of edges
 - $$\Theta{(|V|+|E|)}$$
 
 usually $$|E|\geq|V|-1$$
@@ -116,7 +118,6 @@ V2-V6: e26
 V5-V6: e56
 V2-V2: e22
 ```
-
 ```sequence
 1->[2a]:
 [2a]->[4a]:
