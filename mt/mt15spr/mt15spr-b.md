@@ -1,4 +1,4 @@
-# mt13b
+# mt15spr-b
 
 ## 2.
 An array initially contains the entries $$\text{H}\:\:\text{A}\:\:\text{R}\:\:\text{D}\:\:\text{Q}\:\:\text{U}\:\:\text{E}\:\:\text{S}\:\:\text{T}\:\:\text{I}\:\:\text{O}\:\:\text{N}$$

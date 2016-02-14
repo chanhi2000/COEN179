@@ -1,4 +1,4 @@
-# mt13c
+# mt15spr-c
 
 ## 3.
 Use the master theorem to determine the order of $$T(n)$$ for the following recursion.

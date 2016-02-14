@@ -1,4 +1,4 @@
-# mt13
+# mt15spr
 
 ## 1.
 Prove or disprove:
@@ -6,6 +6,7 @@ Prove or disprove:
 **(a)** $$n^{33}\log{(n)}=O((n)^{\tfrac{1}{3}})$$
 
 **(b)** $$\left(\log{(n)}\right)^n=\Theta\left(n^{\left(\log{(n)}\right)}\right)$$
+
 
 ## 2.
 An array initially contains the entries $$\text{H}\:\:\text{A}\:\:\text{R}\:\:\text{D}\:\:\text{Q}\:\:\text{U}\:\:\text{E}\:\:\text{S}\:\:\text{T}\:\:\text{I}\:\:\text{O}\:\:\text{N}$$
@@ -17,6 +18,7 @@ An array initially contains the entries $$\text{H}\:\:\text{A}\:\:\text{R}\:\:\t
 **(c)** What is the state of the array in heapsort (bottom up version), just after the heap is built?
 
 **(d)** What is the state of the array in quicksort one swap after the $$\text{N}$$ is properly placed?
+
 
 ## 3.
 Use the master theorem to determine the order of $$T(n)$$ for the following recursion.

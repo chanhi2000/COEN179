@@ -1,4 +1,4 @@
-# mt13a
+# mt15spr-a
 
 ## 1.
 Prove or disprove:
