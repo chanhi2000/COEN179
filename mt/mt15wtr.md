@@ -5,7 +5,7 @@ Prove or disprove:
 
 **(a)** $$\log_2{(n)}=O(\log_2\log_2{(n)})$$
 
-**(b)** The number of decimal digits in $$n^n=O(\text{the number of decimal digits in }n!)
+**(b)** The number of decimal digits in $$n^n=O(\text{the number of decimal digits in }n!)$$
 
 
 ##2.
@@ -51,7 +51,7 @@ In this case, the output (as entries are popped in order) is $$123456$$—the se
 
 **(a)** Find an ordering of the numbers $$1$$ through $$6$$ that cannot be sorted in one pass this way.
 
-**(b)** If you apply the algorithm to the output from part (a) i.e., running the algorithm a second time, do you get a properly sorted list?
+**(b)** If you apply the algorithm to the output from part (a) *i.e.*, running the algorithm a second time, do you get a properly sorted list?
 
 **(c)** Show that in general, if you repeatedly run the algorithm on a list of $$n$$ entries, it wouuld take $$\Omega(\log{(n)})$$ attempts to hope to sort the list.
 
