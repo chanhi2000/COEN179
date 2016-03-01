@@ -26,14 +26,14 @@ $$
 
 
 #### DFS Tree
-![fig03](img/[COEN179]week07b-fig03.png)
+![fig03](week05/[COEN179]week07b-fig03.png)
 
 - backedges cconnect direct descendants in the tree to an ancestor.
 - crossedges  
 
 
 #### DFS Stack
-![fig04](img/[COEN179]week07b-fig04.png)
+![fig04](week05/[COEN179]week07b-fig04.png)
 
 $$
 \begin{align*}
@@ -42,7 +42,7 @@ $$
 $$
 
 #### backval of node
-![fig05](img/[COEN179]week07b-fig05.png)
+![fig05](week05/[COEN179]week07b-fig05.png)
 - $$\text{backval}(1)=1$$
 - $$\text{backval}(2)=1$$
 - $$\text{backval}(3)=2$$

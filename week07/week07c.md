@@ -1,7 +1,7 @@
 # week07c
 
 #### backval of node
-![fig01](img/[COEN179]week07c-fig01.png)
+![fig01](week05/[COEN179]week07c-fig01.png)
 
 - $$\text{val}(v)=\text{order when encountered by DFS}$$
 $$
@@ -17,11 +17,11 @@ $$
 
 
 ## BREATH-FIRST SEARCH TREE
-![fig02](img/[COEN179]week07c-fig02.png)
-![fig03](img/[COEN179]week07c-fig03.png)
+![fig02](week05/[COEN179]week07c-fig02.png)
+![fig03](week05/[COEN179]week07c-fig03.png)
 
 ## LAYERED TREE
-![fig04](img/[COEN179]week07c-fig03.png)
+![fig04](week05/[COEN179]week07c-fig03.png)
 
 - the distance between the root of the BFS and any other vertex is simply the generation of the vertex in the BFS tree
 - **Shortest path problem**:
