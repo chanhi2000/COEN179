@@ -19,3 +19,4 @@ where $$x_1,\:x_2,\:\cdots,\:x_n$$ are the roots of the polynomial (generally, c
 
 **(c)** multiplication of two polynomials
 
+

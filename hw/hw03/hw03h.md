@@ -4,7 +4,9 @@
 Apply Kruskal’s algorithm to find a minimum spanning tree of the following graphs.
 
 **(a)**
-![fig03](hw03/hw03-fig03.png)
+![fig03](hw03-fig03.png)
 
 **(b)**
-![fig04](hw03/hw03-fig04.png)
+![fig04](hw03-fig04.png)
+
+
